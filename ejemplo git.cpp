@@ -2,6 +2,6 @@
 #include<string>
 using namespace std;
 int main (){
-	cout<<"hello git"<<endl;
+	cout<<"aprendiendo git"<<endl;
 	return 0;
 }
